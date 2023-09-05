@@ -1,2 +1,2 @@
 # KeyLogger
-An example of KeyLogger's work
+Пример работы кейлогера на Python.
